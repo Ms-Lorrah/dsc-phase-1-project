@@ -1,7 +1,6 @@
 # Phase 1 Project
 
-# Title 
- The Business of Blockbusters-Studio Analysis
+# The Business of Blockbusters-Studio Analysis
 
 ## Overview
 This project aims to analyze the factors contributing to the success of movies.In this study, we examined how genres, release months, and production budgets play a pivotal role in determining a film's total gross revenue. Additionally, we explored the relationship between production budgets and profit margins.
